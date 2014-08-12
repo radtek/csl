@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\cslws\ws" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="football_round_chain.asmx" publishTime="08/11/2014 20:23:52" />
+    <file relUrl="sys_question.asmx" publishTime="08/11/2014 20:39:05" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="06/15/2013 21:00:54" />
+    <file relUrl="football_round_chain_vote_invite.asmx" publishTime="08/11/2014 20:27:55" />
+    <file relUrl="sys_message.asmx" publishTime="08/11/2014 20:36:39" />
+    <file relUrl="football_match.asmx" publishTime="08/11/2014 20:16:40" />
+    <file relUrl="dict_football_team.asmx" publishTime="08/11/2014 20:14:27" />
+    <file relUrl="bin/DBOper.dll" publishTime="08/12/2014 09:17:18" />
+    <file relUrl="football_match_vote.asmx" publishTime="08/11/2014 20:21:05" />
+    <file relUrl="bin/Ionic.Zip.dll" publishTime="08/07/2011 10:01:40" />
+    <file relUrl="football_match_score.asmx" publishTime="08/11/2014 20:19:30" />
+    <file relUrl="check_in.asmx" publishTime="08/11/2014 20:12:45" />
+    <file relUrl="sys_user_balance_change.asmx" publishTime="08/11/2014 20:40:06" />
+    <file relUrl="bin/UUSchool.pdb" publishTime="08/12/2014 09:17:20" />
+    <file relUrl="football_round_chain_vote.asmx" publishTime="08/11/2014 20:26:02" />
+    <file relUrl="bin/DBOper.pdb" publishTime="08/12/2014 09:17:18" />
+    <file relUrl="gift_history.asmx" publishTime="08/11/2014 20:34:54" />
+    <file relUrl="bin/Util.dll" publishTime="08/12/2014 09:01:35" />
+    <file relUrl="sys_dict.asmx" publishTime="08/11/2014 20:36:04" />
+    <file relUrl="football_round.asmx" publishTime="08/11/2014 20:21:52" />
+    <file relUrl="bin/Util.pdb" publishTime="08/12/2014 09:01:35" />
+    <file relUrl="Web.config" publishTime="08/12/2014 09:03:47" />
+    <file relUrl="sys_user.asmx" publishTime="08/11/2014 09:33:10" />
+    <file relUrl="gift.asmx" publishTime="08/11/2014 20:29:18" />
+    <file relUrl="bin/UUSchool.dll" publishTime="08/12/2014 09:17:20" />
+    <file relUrl="gift_auction_sys_user_bid.asmx" publishTime="08/11/2014 20:33:34" />
+    <file relUrl="gift_auction.asmx" publishTime="08/11/2014 20:31:13" />
+  </publishProfile>
+</publishData>

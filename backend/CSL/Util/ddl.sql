@@ -1,0 +1,12 @@
+﻿truncate table app_version;
+truncate table user_message;
+truncate table user_friend;
+truncate table user_feedback;
+truncate table task_progress;
+truncate table task;
+truncate table game;
+truncate table sys_department;
+truncate table dict_game_type;
+truncate table user_balance_change;
+truncate table sys_user;
+insert into sys_user(login_name,login_pwd,role_id,register_date) values('admin','c4ca4238a0b923820dcc509a6f75849b',1,now());
